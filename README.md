@@ -4,7 +4,7 @@
 
 Arquivo de exercícios feitos para estudo, ambos no ambiente universitário e em casa.
 
-## Matérias aprendidas - faculdade:
+## Matérias aprendidas - Faculdade:
 - *[Primeiro Semestre](1SEM) - Lingugagem C e lógica de programação*
     - Introdução à programação
     - Fundamentos da linguagem C (Estrutura geral, variáveis, comandos de entrada e saída, formatação, tipos de dados)
@@ -12,7 +12,7 @@ Arquivo de exercícios feitos para estudo, ambos no ambiente universitário e em
     - Loops (For, while)
     - Arranjos unidimensionais (Vetores)
 
-## Cursos paralelos:
+## Cursos online:
 - mooc.fi - Java Programming I
 
 ## Nomenclatura de pastas:
