@@ -1,3 +1,29 @@
+# === General ===
 .vscode/
 **/.DS_Store
 **/output
+Thumbs.db
+*.log
+
+# === Java & Maven ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# === TMCBeans ===
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# === TMC ===
+.tmcrc
+.tmc_project_settings
+.tmc_history
+tmcbootstrap.jar
+.checkstyle.xml
+.tmcproject.json
+.tmcproject.yml
