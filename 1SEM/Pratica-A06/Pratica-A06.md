@@ -3,8 +3,7 @@
 
 ## Exercícios:
 
-3.
-Fazer um programa que faz a leitura de um vetor X com N reais , com tamanho máximo igual a 20 e N deverá ser lido. Calcula o somatório de todos os elementos do vetor. Imprimir o vetor lido e o valor do somatório.
+3. Fazer um programa que faz a leitura de um vetor X com N reais , com tamanho máximo igual a 20 e N deverá ser lido. Calcula o somatório de todos os elementos do vetor. Imprimir o vetor lido e o valor do somatório.
     - O somatório é dado por: S = S + X[i]; para i = 0, 1, 2, ..., N-1
 
 4. Fazer um programa que faz a leitura de um vetor X, com N inteiros, com tamanho máximo igual a 20 e N deverá ser lido.
