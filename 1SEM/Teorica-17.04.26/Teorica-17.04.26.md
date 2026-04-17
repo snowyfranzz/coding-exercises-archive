@@ -1,0 +1,1 @@
+- Ex 1 - Elabore um programa que leia 3 strings de tamanho 10 e as coloque em ordem alfabética
