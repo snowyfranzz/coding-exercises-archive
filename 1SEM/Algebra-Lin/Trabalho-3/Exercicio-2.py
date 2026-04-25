@@ -88,8 +88,8 @@ numEstadoEstacionario, matEstacionaria = EstadoEstacionario(MATRIZ_P)
 
 if numEstadoEstacionario != 0:
     print(f"O estado estacionário será atingido em E{numEstadoEstacionario}.\n")
-    print("Vetor do estado estacionário:")
-    sp.pprint(matC @ matEstacionaria)
+    print("Matriz no estado estacionário:")
+    sp.pprint(matEstacionaria)
 else:
     print("O estado estacionário não será atingido.")
 
